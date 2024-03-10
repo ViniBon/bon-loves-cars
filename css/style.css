@@ -11,3 +11,22 @@
     width: 128px;
     height: 128px;
 }
+
+#contact{
+    margin-top: 300px;
+}
+
+.imagens-postagens{
+    width: 100%;
+    border: 5px solid rgb(198, 227, 252);
+}
+
+figcaption{
+    text-align: center;
+    background-color: rgb(198, 227, 252);
+    width: auto%;
+    position: relative;
+    left: 0px;
+    top: -12px;
+    z-index: 3;
+}
